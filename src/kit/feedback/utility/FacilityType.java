@@ -1,0 +1,5 @@
+package kit.feedback.utility;
+
+public enum FacilityType {
+    ACADEMICS,LIBRARY,HOSTEL,MESS,SPORTS,CULTURAL,LABORATORY,SEMINAR,WORKSHOP,CONFERENCE
+}
